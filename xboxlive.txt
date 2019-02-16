@@ -5,6 +5,8 @@ assets1.xboxlive.com.nsatc.net
 assets1.xboxlive.com.edgesuite.net
 assets2.xboxlive.com
 dlassets.xboxlive.com
+# New and untested
+*.msxbassets.loris.llnwd.net
 xboxone.loris.llnwd.net
 *.xboxone.loris.llnwd.net
 xboxone.vo.llnwd.net
