@@ -18,7 +18,7 @@ kv801-prod.do.dsp.mp.microsoft.com
 kv801-prod.dodsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 fe3.delivery.mp.microsoft.com.nsatc.net
-# Uncertain
+# Uncertain (possibly generic servers)
 a1856.dspw65.akamai.net
 e12437.g.akamaiedge.net
 2-01-3cf7-000c.cdx.cedexis.net
