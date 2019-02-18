@@ -12,20 +12,11 @@ xboxone.loris.llnwd.net
 xboxone.vo.llnwd.net
 xbox-mbr.xboxlive.com
 # New and untested, for the rest below this line
+fe3.delivery.mp.microsoft.com
+fe3.delivery.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com-c.edgesuite.net
 cp801-prod.do.dsp.mp.microsoft.com
 cp801-prod.dodsp.mp.microsoft.com.nsatc.net
 kv801-prod.do.dsp.mp.microsoft.com
 kv801-prod.dodsp.mp.microsoft.com.nsatc.net
-fe3.delivery.mp.microsoft.com
-fe3.delivery.mp.microsoft.com.nsatc.net
-# Uncertain (possibly generic servers)
-a1856.dspw65.akamai.net
-e12437.g.akamaiedge.net
-2-01-3cf7-000c.cdx.cedexis.net
-2-01-3cf7-000d.cdx.cedexis.net
-dcat.azureedge.net
-dcat.ec.azureedge.net
-hlb.apr-52dd2-0.edgecastdns.net
-cs11.wpc.v0cdn.net
