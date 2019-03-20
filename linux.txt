@@ -1,0 +1,3 @@
+ppa.launchpad.net
+la-mirrors.evowise.com
+mirrors.evowise.com
