@@ -2,47 +2,47 @@
 	"cache_domains": [
 		{
 			"name": "apple",
-			"description": "CDN for apple",
+			"description": "CDN for Apple",
 			"domain_files": ["apple.txt"]
 		},
 		{
 			"name": "arenanet",
-			"description": "CDN for guild wars, HoT",
+			"description": "CDN for Guild Wars, HoT",
 			"domain_files": ["arenanet.txt"]
 		},
 		{
 			"name": "blizzard",
-			"description": "CDN for blizzard/battle.net",
+			"description": "CDN for Blizzard/Battle.net",
 			"domain_files": ["blizzard.txt"]
 		},
 		{
 			"name": "daybreak",
-			"description": "Daybreak games CDN",
+			"description": "CDN for Daybreak games",
 			"domain_files": ["daybreak.txt"]
 		},
 		{
 			"name": "frontier",
-			"description": "CDN for frontier games",
+			"description": "CDN for Frontier games",
 			"domain_files": ["frontier.txt"]
 		},
 		{
 			"name": "hirez",
-			"description": "CDN for hirez",
+			"description": "CDN for Hirez",
 			"domain_files": ["hirez.txt"]
 		},
 		{
 			"name": "nexusmods",
-			"description": "Nexus mods / skyrim content",
+			"description": "CDN for Nexus mods/Skyrim content",
 			"domain_files": ["nexusmods.txt"]
 		},
 		{
 			"name": "nintendo",
-			"description": "CDN for nintendo (swtich)",
+			"description": "CDN for Nintendo consoles and servers",
 			"domain_files": ["nintendo.txt"]
 		},
 		{
 			"name": "origin",
-			"description": "CDN for origin",
+			"description": "CDN for Origin",
 			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
 			"mixed_content": true,
 			"domain_files": ["origin.txt"]
@@ -54,47 +54,47 @@
                 },
 		{
 			"name": "riot",
-			"description": "CDN for riot games",
+			"description": "CDN for Riot Games",
 			"domain_files": ["riot.txt"]
 		},
 		{
 			"name": "rockstar",
-			"description": "CDN for rockstar games",
+			"description": "CDN for Rockstar games",
 			"domain_files": ["rockstar.txt"]
 		},
 		{
 			"name": "sony",
-			"description": "CDN for sony / playstation",
+			"description": "CDN for Sony/Playstation",
 			"domain_files": ["sony.txt"]
 		},
 		{
 			"name": "steam",
-			"description": "CDN for steam platform",
+			"description": "CDN for Steam, Valve's digital platform for game distrubution",
 			"domain_files": ["steam.txt"]
 		},
 		{
 			"name": "uplay",
-			"description": "CDN for uplay downloader",
+			"description": "CDN for the Uplay downloader",
 			"domain_files": ["uplay.txt"]
 		},
 		{
 			"name": "twitch",
-			"description": "CDN for twitch games / mods and addons",
+			"description": "CDN for Twitch games, mods and addons",
 			"domain_files": ["twitchapp.txt"]
 		},
 		{
 			"name": "wargaming",
-			"description": "CDN for wargaming.net",
+			"description": "CDN for WarGaming.net",
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
 			"name": "wsus",
-			"description": "CDN for windows updates",
+			"description": "CDN for Windows Updates",
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
 			"name": "xboxlive",
-			"description": "CDN for xboxlive",
+			"description": "CDN for Xbox Live",
 			"domain_files": ["xboxlive.txt"],
 			"mixed_content": true
 		}
