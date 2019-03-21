@@ -31,6 +31,11 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
+			"name": "linux",
+			"description": "CDN for Linux's Software Sources and update packages",
+			"domain_files": ["linux.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
