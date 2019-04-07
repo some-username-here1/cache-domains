@@ -33,7 +33,7 @@
 		{
 			"name": "minecraft",
 			"description": "CDN for the Minecraft Launcher and its libraries",
-			"domain_files": ["minecraft.txt"]
+			"domain_files": ["minecraft.txt"],
 			"mixed_content": true
 		},
 		{
